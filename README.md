@@ -153,3 +153,12 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (CIKM'2023) Diffusion Augmentation for Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615134)]
 - (MM'2023) Diff4Rec: Sequential Recommendation with Curriculum-scheduled Diffusion Augmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612709)]
 - (SIGIR'2023) Graph Masked Autoencoder for Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591692)]
+
+## Adversarial Learning
+- (IJCAI'2020) Adversarial Oracular Seq2seq Learning for Sequential Recommendation [[paper](https://www.ijcai.org/Proceedings/2020/0264.pdf)]
+- (SIGIR'2020) Sequential Recommendation with Self-Attentive Multi-Adversarial Network [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401111)]
+- (SIGIR'2020) Sequential-based Adversarial Optimisation for Personalised Top-N Item Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401264)]
+- (DASFAA'2021) SRecGAN: Pairwise Adversarial Training for Sequential Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_2)]
+- (DASFAA'2021) SSRGAN: A Generative Adversarial Network for Streaming Sequential Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_3)]
+- (WWW'2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449873)]
+- (IPM'2023) Enhancing Sequential Recommendation with Contrastive Generative Adversarial Network [[paper](https://www.sciencedirect.com/science/article/pii/S0306457323000687)]
