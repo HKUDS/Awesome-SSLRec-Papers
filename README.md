@@ -198,3 +198,29 @@ We hope this repository proves valuable to your research or practice in the fiel
 ### Generative Learning
 - (KDD'2023) Knowledge Graph Self-Supervised Rationalization for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599400)]
 - (WSDM'2024) DiffKG: Knowledge Graph Diffusion Model for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635850)]
+
+
+## Cross-domain Recommendation
+### Contrastive Learning
+- (CogMI'2021) Pre-training Graph Neural Network for Cross Domain Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9750359)]
+- (CIKM'2022) Contrastive Cross-Domain Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557262)]
+- (CIKM'2022) Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557154)]
+- (ICDE'2022) Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck [[paper](https://ieeexplore.ieee.org/abstract/document/9835164)]
+- (ICONIP'2022) CLCDR: Contrastive Learning for Cross-Domain Recommendation to Cold-Start Users [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30108-7_28)]
+- (KDD'2022) Contrastive Cross-domain Recommendation in Matching [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539125)]
+- (AAAI'2023) Self-Supervised Interest Transfer Network via Prototypical Contrastive Learning for Recommendation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25584)]
+- (DASFAA'2023) CATCL: Joint Cross-Attention Transfer and Contrastive Learning for Cross-Domain Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_30)]
+- (DASFAA'2023) Disentangled Contrastive Learning for Cross-Domain Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_11)]
+- (TOIS'2023) Disentangled Representations Learning for Multi-target Cross-domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3572835)]
+
+### Generative Learning
+- (RecSys'2021) Towards Source-Aligned Variational Models for Cross-Domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3460231.3474265)]
+- (SIGIR'2022) Exploiting Variational Domain-Invariant User Embedding for Partially Overlapped Cross Domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531975)]
+- (arXiv'2024) Diffusion Cross-domain Recommendation [[paper](https://arxiv.org/abs/2402.02182)]
+
+### Adversarial Learning
+- (CIKM'2022) Cross-domain Recommendation via Adversarial Adaptation [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557277)]
+- (WSDM'2022) RecGURU: Adversarial Learning of Generalized User Representations for Cross-Domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498388)]
+- (TKDD'2023) Adaptive Adversarial Contrastive Learning for Cross-Domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3630259)]
+- (TKDE'2023) A Deep Dual Adversarial Network for Cross-Domain Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9640532)]
+- (TOIS'2023) DA-DAN: A Dual Adversarial Domain Adaption Network for Unsupervised Non-overlapping Cross-domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3617825)]
