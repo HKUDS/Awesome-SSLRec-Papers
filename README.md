@@ -240,3 +240,39 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (SIGIR'2022) Thinking inside The Box: Learning Hypercube Representations for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532066)]
 - (WSDM'2023) Self-Supervised Group Graph Collaborative Filtering for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570400)]
 
+## Multi-behavior Recommendation
+### Contrastive Learning
+- (ICDM'2021) Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9678992)]
+- (ICDM'2021) Self-supervised Graph Neural Networks for Multi-behavior Recommendation [[paper](http://www.shichuan.org/doc/134.pdf)]
+- (DASFAA'2022) Multi-view Multi-behavior Contrastive Learning in Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_11)]
+- (WSDM'2022) Contrastive Meta Learning with Behavior Multiplicity for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498527)]
+- (DASFAA'2023) Intra- and Inter-behavior Contrastive Learning for Multi-behavior Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_10)]
+- (DASFAA'2023) MixMBR: Contrastive Learning for Multi-behavior Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_29)]
+- (DASFAA'2023) Temporal-Aware Multi-behavior Contrastive Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_18)]
+- (RecSys'2023) Multi-Relational Contrastive Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3604915.3608807)]
+- (SIGIR'2023) Multi-behavior Self-supervised Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591734)]
+- (WSDM'2023) Knowledge Enhancement for Contrastive Multi-Behavior Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570386)]
+
+### Generative Learning
+- (ICDM'2023) Variational Collective Graph AutoEncoder for Multi-behavior Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/10415564)]
+- (RecSys'2023) BVAE: Behavior-aware Variational Autoencoder for Multi-Behavior Multi-Task Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3604915.3608781)]
+
+
+## Multi-modal Recommendation
+### Contrastive Learning
+- (ICMR'2022) Multi-Modal Contrastive Pre-training for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531378)]
+- (SIGIR'2022) Improving Micro-video Recommendation via Contrastive Multiple Interests [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531861)]
+- (SIGIR'2022) Multi-modal Graph Contrastive Learning for Micro-video Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532027)]
+- (TMM'2022) Self-Supervised Learning for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9811387)]
+- (TKDE'2023) Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9950351)]
+- (WWW'2023) Bootstrap Latent Representations for Multi-modal Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583251)]
+- (WWW'2023) Multi-Modal Self-Supervised Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583206)]
+
+### Generative Learning
+- (TMM'2022) Multi-Modal Variational Graph Auto-Encoder for Recommendation Systems [[paper](https://ieeexplore.ieee.org/abstract/document/9535249)]
+
+### Adversarial Learning
+- (WWW'2023) Multi-Modal Self-Supervised Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583206)]
+
+
+
