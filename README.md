@@ -35,7 +35,7 @@ This repository serves as a collection of recent advancements in employing self-
 
 We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
 ```bibtex
-@article{SSL4RecSys,
+@article{ren2024comprehensive,
   title={A Comprehensive Survey on Self-Supervised Learning for Recommendation},
   author={Ren, Xubin and Wei, Wei and Xia, Lianghao and Huang, Chao},
   journal={arXiv},
@@ -291,4 +291,26 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (WWW'2023) Multi-Modal Self-Supervised Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583206)]
 
 
+## Contributing
+If you have come across relevant resources, feel free to submit a pull request.
+```
+- (Journal/Confernce'20XX) **paper_name** [[paper](link)]
+```
 
+To add a paper to the survey, please consider providing more detailed information in the PR 😊
+```
+Contrastive Methods
+  - View Creation (Data-based / Feature-based / Model-based)
+  - Pair Sampling (Natural / Score-based)
+  - Contrastive Objective (InfoNCE-based / JS-based / Explicit)
+Generative Methods
+  - Generative Learning Paradigm (Variational Autoencoding / Masked Autoencoding / Denoised Diffusion)
+  - Generation Target
+Adversarial Methods:
+  - Adversarial Learning Paradigm (Differentiable / Non-Differentiable)
+  - Adversarial Target
+Please also consider providing a brief introduction about the method to help us quickly add the paper to our survey :)
+```
+
+## Acknowledgements
+The design of our README.md is inspired by [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) and [Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks), thanks to their works!
