@@ -15,7 +15,7 @@ Recommender systems personalize suggestions to combat information overload. Deep
 
 ## News
 🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** and **WATCH** for updates.
-* Our survey paper: [A Comprehensive Survey of Self-Supervised Learning for Recommendation]() is now public.
+* Our survey paper: [A Comprehensive Survey of Self-Supervised Learning for Recommendation]() is coming.
 
 ## Overview
 This repository serves as a collection of recent advancements in employing self-supervised learning (SSL) across **nine** diverse recommendation scenarios, such as Collaborative Filtering, Sequential Recommendation, and more. We categorize and summarize the approaches based on three primary self-supervised frameworks: *1) Contrastive Learning*, *2) Generative Learning*, and *3) Adversarial Learning*.
