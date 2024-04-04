@@ -224,3 +224,19 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (TKDD'2023) Adaptive Adversarial Contrastive Learning for Cross-Domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3630259)]
 - (TKDE'2023) A Deep Dual Adversarial Network for Cross-Domain Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9640532)]
 - (TOIS'2023) DA-DAN: A Dual Adversarial Domain Adaption Network for Unsupervised Non-overlapping Cross-domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3617825)]
+
+## Bundle Recommendation
+### Contrastive Learning
+- (AAAI'2022) Multi-view Intent Disentangle Graph Networks for Bundle Recommendation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20359)]
+- (KDD'2022) CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539229)]
+
+### Generative Learning
+- (SIGIR'2023) Distillation-Enhanced Graph Masked Autoencoders for Bundle Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591666)]
+
+## Group Recommendation
+### Contrastive Learning
+- (SIGIR'2020) GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401116)]
+- (CIKM'2021) Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482426)]
+- (SIGIR'2022) Thinking inside The Box: Learning Hypercube Representations for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532066)]
+- (WSDM'2023) Self-Supervised Group Graph Collaborative Filtering for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570400)]
+
