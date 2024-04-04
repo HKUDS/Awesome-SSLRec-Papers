@@ -76,6 +76,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (WSDM'2023) Disentangled Negative Sampling for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)]
 - (WSDM'2023) SGCCL: Siamese Graph Contrastive Consensus Learning for Personalized Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570422)]
 - (WWW'2024) RecDCL: Dual Contrastive Learning for Recommendation [[paper](https://arxiv.org/abs/2401.15635)]
+
 ### Generative Learning
 - (KDD'2017) Collaborative Variational Autoencoder for Recommender Systems [[paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098077)]
 - (WWW'2018) Variational Autoencoders for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3178876.3186150)]
@@ -89,3 +90,14 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (SIGIR'2023) Diffusion Recommender Model [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591663)]
 - (SIGIR'2023) Graph Transformer for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591723)]
 - (WWW'2023) Automated Self-Supervised Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583336)]
+
+### Adversarial Learning
+- (SIGIR'2017) IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models [[paper](https://dl.acm.org/doi/abs/10.1145/3077136.3080786)]
+- (CIKM'2018) CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271743)]
+- (CIKM'2018) An Adversarial Approach to Improve Long-Tail Performance in Neural Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3269206.3269264)]
+- (AAAI'2019) Adversarial Binary Collaborative Filtering for Implicit Feedback [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4460)]
+- (KDD'2019) Enhancing Collaborative Filtering with Generative Augmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330873)]
+- (WWW'2019) Rating Augmentation with Generative Adversarial Networks towards Accurate Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313413)]
+- (CIKM'2020) Exploring Missing Interactions: A Convolutional Generative Adversarial Network for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411917)]
+
+##
