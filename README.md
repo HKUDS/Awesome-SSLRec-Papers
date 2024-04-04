@@ -19,3 +19,26 @@ Recommender systems personalize suggestions to combat information overload. Deep
 
 ## Overview
 This repository serves as a collection of recent advancements in employing self-supervised learning (SSL) across **nine** diverse recommendation scenarios, such as Collaborative Filtering, Sequential Recommendation, and more. We categorize and summarize the approaches based on three primary self-supervised frameworks: *1) Contrastive Learning*, *2) Generative Learning*, and *3) Adversarial Learning*.
+
+- Contrastive Learning <p align="center">
+<img src="fig/cl_paradigm.png" alt="Contrastive Learning"/>
+</p>
+
+- Generative Learning <p align="center">
+<img src="fig/gl_paradigm.png" alt="Contrastive Learning"/>
+</p>
+
+- Adversarial Learning <p align="center">
+<img src="fig/al_paradigm.png" alt="Contrastive Learning"/>
+</p>
+
+
+We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
+```bibtex
+@article{SSL4RecSys,
+  title={A Comprehensive Survey on Self-Supervised Learning for Recommendation},
+  author={Ren, Xubin and Wei, Wei and Xia, Lianghao and Huang, Chao},
+  journal={arXiv},
+  year={2024}
+}
+```
