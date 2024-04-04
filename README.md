@@ -137,7 +137,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (SIGIR'2024) Self-Supervised Graph Neural Networks for Sequential Recommendation [paper]
 - (WSDM'2024) Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635773)]
 
-## Generative Learning
+### Generative Learning
 - (CIKM'2019) BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)]
 - (WSDM'2019) Sequential Variational Autoencoders for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3289600.3291007)]
 - (EMNLP'2020) PTUM: Pre-training User Model from Unlabeled User Behaviors via Self-supervision [[paper](https://arxiv.org/abs/2010.01494)]
@@ -154,7 +154,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (MM'2023) Diff4Rec: Sequential Recommendation with Curriculum-scheduled Diffusion Augmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612709)]
 - (SIGIR'2023) Graph Masked Autoencoder for Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591692)]
 
-## Adversarial Learning
+### Adversarial Learning
 - (IJCAI'2020) Adversarial Oracular Seq2seq Learning for Sequential Recommendation [[paper](https://www.ijcai.org/Proceedings/2020/0264.pdf)]
 - (SIGIR'2020) Sequential Recommendation with Self-Attentive Multi-Adversarial Network [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401111)]
 - (SIGIR'2020) Sequential-based Adversarial Optimisation for Personalised Top-N Item Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401264)]
@@ -162,3 +162,23 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (DASFAA'2021) SSRGAN: A Generative Adversarial Network for Streaming Sequential Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_3)]
 - (WWW'2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449873)]
 - (IPM'2023) Enhancing Sequential Recommendation with Contrastive Generative Adversarial Network [[paper](https://www.sciencedirect.com/science/article/pii/S0306457323000687)]
+
+
+## Social Recommendation
+### Contrastive Learning
+- (AAAI'2021) Knowledge-aware Coupled Graph Neural Network for Social Recommendation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16533)]
+- (CIKM'2021) Social Recommendation with Self-Supervised Metagraph Informax Network [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482480)]
+- (KDD'2021) Socially-Aware Self-Supervised Tri-Training for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467340)]
+- (WWW'2021) Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449844)]
+- (CIKM'2022) Disentangled Contrastive Learning for Social Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557583)]
+- (SIGIR'2022) Socially-aware Dual Contrastive Learning for Cold-Start Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531780)]
+- (TCSS'2022) Predictive and Contrastive: Dual-Auxiliary Learning for Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9815030)]
+- (IJCAI'2023) Denoised Self-Augmented Learning for Social Recommendation [[paper](https://arxiv.org/abs/2305.12685)]
+- (Inf. Sci.'2023) Relationship-aware contrastive learning for social recommendations [[paper](https://www.sciencedirect.com/science/article/pii/S0020025523001846)]
+- (WSDM'2023) Heterogeneous Graph Contrastive Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570484)]
+
+### Adversarial Learning
+- (CIKM'2019) A Modular Adversarial Approach to Social Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357898)]
+- (ICDM'2019) Generating Reliable Friends via Adversarial Training to Improve Social Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/8970896)]
+- (IJCAI'2019) Deep Adversarial Social Recommendation [[paper](https://arxiv.org/abs/1905.13160)]
+- (TKDE'2022) Enhancing Social Recommendation With Adversarial Graph Convolutional Networks [[paper](https://ieeexplore.ieee.org/abstract/document/9239885)]
