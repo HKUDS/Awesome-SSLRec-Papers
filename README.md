@@ -182,3 +182,19 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (ICDM'2019) Generating Reliable Friends via Adversarial Training to Improve Social Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/8970896)]
 - (IJCAI'2019) Deep Adversarial Social Recommendation [[paper](https://arxiv.org/abs/1905.13160)]
 - (TKDE'2022) Enhancing Social Recommendation With Adversarial Graph Convolutional Networks [[paper](https://ieeexplore.ieee.org/abstract/document/9239885)]
+
+
+## Knowledge-aware Recommendation
+### Contrastive Learning
+- (Mathematics'2022) Collaborative Knowledge-Enhanced Recommendation with Self-Supervisions [[paper](https://www.mdpi.com/2227-7390/9/17/2129)]
+- (CIKM'2022) Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557358)]
+- (SIGIR'2022) Knowledge Graph Contrastive Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532009)]
+- (SIGIR'2022) Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532025)]
+- (DASFAA'2023) KRec-C2: A Knowledge Graph Enhanced Recommendation with Context Awareness and Contrastive Learning [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_1)]
+- (DASFAA'2023) ML-KGCL: Multi-level Knowledge Graph Contrastive Learning for Recommendation [[paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_17)]
+- (ICME'2023) Hierarchical and Contrastive Representation Learning for Knowledge-Aware Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/10219980)]
+- (WSDM'2023) Knowledge-Adaptive Contrastive Learning for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570483)]
+
+### Generative Learning
+- (KDD'2023) Knowledge Graph Self-Supervised Rationalization for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599400)]
+- (WSDM'2024) DiffKG: Knowledge Graph Diffusion Model for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635850)]
