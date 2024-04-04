@@ -43,12 +43,28 @@ We hope this repository proves valuable to your research or practice in the fiel
 }
 ```
 
+## Table of Contents
+- [Awesome-SSLRec-Papers](#awesome-sslrec-papers)
+  - [News](#news)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [General Collaborative Filtering](#🌐-general-collaborative-filtering)
+  - [Sequential Recommendation](#🌐-sequential-recommendation)
+  - [Social Recommendation](#🌐-socail-recommendation)
+  - [Knowledge-aware Recommendation](#🌐-knowledge-aware-recommendation)
+  - [Cross-domain Recommendation](#🌐-cross-domain-recommendation)
+  - [Bundle Recommendation](#🌐-bundle-recommendation)
+  - [Group Recommendation](#🌐-group-recommendation)
+  - [Multi-behavior Recomendation](#🌐-multi-behavior-recommendation)
+  - [Multi-modal Recommendation](#🌐-multi-modal-recommendation)
+
+
 ## Related Resources
 * (WSDM'2024) SSLRec: A Self-Supervised Learning Framework for Recommendation [[paper](https://arxiv.org/abs/2308.05697)]
 * (TKDE'2023) Self-Supervised Learning for Recommender Systems: A Survey [[paper](https://ieeexplore.ieee.org/abstract/document/10144391)]
 * (TOIS'2023) Contrastive Self-supervised Learning in Recommender Systems: A Survey [[paper](https://dl.acm.org/doi/abs/10.1145/3627158)]
 
-## General Collaborative Filtering
+## 🌐 General Collaborative Filtering
 ### Contrastive Learning
 - (arXiv'2021) Contrastive Learning for Recommender System [[paper](https://arxiv.org/abs/2101.01317)]
 - (CIKM'2021) SimpleX: A Simple and Strong Baseline for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482297)]
@@ -100,7 +116,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (WWW'2019) Rating Augmentation with Generative Adversarial Networks towards Accurate Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313413)]
 - (CIKM'2020) Exploring Missing Interactions: A Convolutional Generative Adversarial Network for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411917)]
 
-## Sequential Recommendation
+## 🌐 Sequential Recommendation
 ### Contrastive Learning
 - (CIKM'2020) S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411954)]
 - (KDD'2020) Disentangled Self-Supervision in Sequential Recommenders [[paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403091)]
@@ -164,7 +180,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (IPM'2023) Enhancing Sequential Recommendation with Contrastive Generative Adversarial Network [[paper](https://www.sciencedirect.com/science/article/pii/S0306457323000687)]
 
 
-## Social Recommendation
+## 🌐 Social Recommendation
 ### Contrastive Learning
 - (AAAI'2021) Knowledge-aware Coupled Graph Neural Network for Social Recommendation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16533)]
 - (CIKM'2021) Social Recommendation with Self-Supervised Metagraph Informax Network [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482480)]
@@ -184,7 +200,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (TKDE'2022) Enhancing Social Recommendation With Adversarial Graph Convolutional Networks [[paper](https://ieeexplore.ieee.org/abstract/document/9239885)]
 
 
-## Knowledge-aware Recommendation
+## 🌐 Knowledge-aware Recommendation
 ### Contrastive Learning
 - (Mathematics'2022) Collaborative Knowledge-Enhanced Recommendation with Self-Supervisions [[paper](https://www.mdpi.com/2227-7390/9/17/2129)]
 - (CIKM'2022) Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557358)]
@@ -200,7 +216,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (WSDM'2024) DiffKG: Knowledge Graph Diffusion Model for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635850)]
 
 
-## Cross-domain Recommendation
+## 🌐 Cross-domain Recommendation
 ### Contrastive Learning
 - (CogMI'2021) Pre-training Graph Neural Network for Cross Domain Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9750359)]
 - (CIKM'2022) Contrastive Cross-Domain Sequential Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557262)]
@@ -225,7 +241,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (TKDE'2023) A Deep Dual Adversarial Network for Cross-Domain Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9640532)]
 - (TOIS'2023) DA-DAN: A Dual Adversarial Domain Adaption Network for Unsupervised Non-overlapping Cross-domain Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3617825)]
 
-## Bundle Recommendation
+## 🌐 Bundle Recommendation
 ### Contrastive Learning
 - (AAAI'2022) Multi-view Intent Disentangle Graph Networks for Bundle Recommendation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20359)]
 - (KDD'2022) CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539229)]
@@ -233,14 +249,14 @@ We hope this repository proves valuable to your research or practice in the fiel
 ### Generative Learning
 - (SIGIR'2023) Distillation-Enhanced Graph Masked Autoencoders for Bundle Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591666)]
 
-## Group Recommendation
+## 🌐 Group Recommendation
 ### Contrastive Learning
 - (SIGIR'2020) GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401116)]
 - (CIKM'2021) Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482426)]
 - (SIGIR'2022) Thinking inside The Box: Learning Hypercube Representations for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532066)]
 - (WSDM'2023) Self-Supervised Group Graph Collaborative Filtering for Group Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570400)]
 
-## Multi-behavior Recommendation
+## 🌐 Multi-behavior Recommendation
 ### Contrastive Learning
 - (ICDM'2021) Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9678992)]
 - (ICDM'2021) Self-supervised Graph Neural Networks for Multi-behavior Recommendation [[paper](http://www.shichuan.org/doc/134.pdf)]
@@ -258,7 +274,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (RecSys'2023) BVAE: Behavior-aware Variational Autoencoder for Multi-Behavior Multi-Task Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3604915.3608781)]
 
 
-## Multi-modal Recommendation
+## 🌐 Multi-modal Recommendation
 ### Contrastive Learning
 - (ICMR'2022) Multi-Modal Contrastive Pre-training for Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3512527.3531378)]
 - (SIGIR'2022) Improving Micro-video Recommendation via Contrastive Multiple Interests [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531861)]
