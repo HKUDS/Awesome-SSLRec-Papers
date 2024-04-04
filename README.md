@@ -42,3 +42,9 @@ We hope this repository proves valuable to your research or practice in the fiel
   year={2024}
 }
 ```
+
+## Related Resources
+* (WSDM'2024) SSLRec: A Self-Supervised Learning Framework for Recommendation [[paper](https://arxiv.org/abs/2308.05697)]
+* (TKDE'2023) Self-Supervised Learning for Recommender Systems: A Survey [[paper](https://ieeexplore.ieee.org/abstract/document/10144391)]
+* (TOIS'2023) Contrastive Self-supervised Learning in Recommender Systems: A Survey [[paper](https://dl.acm.org/doi/abs/10.1145/3627158)]
+
