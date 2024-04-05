@@ -1,5 +1,6 @@
 # Awesome-SSLRec-Papers
-[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2404.03354)[![Awesome](https://awesome.re/badge.svg)](https://github.com/HKUDS/Awesome-SSLRec-Papers)
+[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2404.03354)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/HKUDS/Awesome-SSLRec-Papers)
 ![](https://img.shields.io/github/last-commit/HKUDS/Awesome-SSLRec-Papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 ![](https://img.shields.io/github/stars/HKUDS/Awesome-SSLRec-Papers?color=yellow)
