@@ -1,9 +1,13 @@
 # Awesome-SSLRec-Papers
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/HKUDS/Awesome-SSLRec-Papers)
+<a href="https://arxiv.org/abs/2404.03354" target="_blank">
+    <img alt="Survey Paper" src="https://img.shields.io/badge/📑-Survey_Paper-blue" />
+</a>
 ![](https://img.shields.io/github/last-commit/HKUDS/Awesome-SSLRec-Papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 ![](https://img.shields.io/github/stars/HKUDS/Awesome-SSLRec-Papers?color=yellow)
 ![](https://img.shields.io/github/forks/HKUDS/Awesome-SSLRec-Papers?color=lightblue)
+
 
 A collection of papers and resources about self-supervised learning (**SSL**) for recommendation (**Rec**).
 
@@ -15,7 +19,7 @@ Recommender systems personalize suggestions to combat information overload. Deep
 
 ## News
 🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** and **WATCH** for updates.
-* Our survey paper: [A Comprehensive Survey of Self-Supervised Learning for Recommendation]() is coming.
+* Our survey paper: [A Comprehensive Survey of Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2404.03354) is public.
 
 ## Overview
 This repository serves as a collection of recent advancements in employing self-supervised learning (SSL) across **nine** diverse recommendation scenarios, such as Collaborative Filtering, Sequential Recommendation, and more. We categorize and summarize the approaches based on three primary self-supervised frameworks: *1) Contrastive Learning*, *2) Generative Learning*, and *3) Adversarial Learning*.
