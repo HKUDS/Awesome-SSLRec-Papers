@@ -40,7 +40,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 @article{ren2024comprehensive,
   title={A Comprehensive Survey on Self-Supervised Learning for Recommendation},
   author={Ren, Xubin and Wei, Wei and Xia, Lianghao and Huang, Chao},
-  journal={arXiv},
+  journal={arXiv preprint arXiv:2404.03354},
   year={2024}
 }
 ```
