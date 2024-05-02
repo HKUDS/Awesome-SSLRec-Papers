@@ -16,7 +16,7 @@ Recommender systems personalize suggestions to combat information overload. Deep
 </p>
 
 ## News
-🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** and **WATCH** for updates.
+🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** 🌟 and **WATCH** for updates.
 * Our survey paper: [A Comprehensive Survey on Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2404.03354) is public.
 
 ## Overview
