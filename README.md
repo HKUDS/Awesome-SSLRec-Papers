@@ -94,6 +94,8 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (WSDM'2023) Disentangled Negative Sampling for Collaborative Filtering [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)]
 - (WSDM'2023) SGCCL: Siamese Graph Contrastive Consensus Learning for Personalized Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570422)]
 - (WWW'2024) RecDCL: Dual Contrastive Learning for Recommendation [[paper](https://arxiv.org/abs/2401.15635)]
+- (arXiv'2023) RDGCL: Reaction-Diffusion Graph Contrastive Learning for Recommendation [[paper](https://arxiv.org/abs/2312.16563)]
+- (arXiv'2024) Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering [[paper](https://arxiv.org/abs/2405.00287)]
 
 ### Generative Learning
 - (KDD'2017) Collaborative Variational Autoencoder for Recommender Systems [[paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098077)]
